@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<filmarchive>
+    <films>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/19.11.2020_9_46_54_jedini_izlaz_rs.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Šest godina nakon što joj je muž, čuveni beogradski advokat, stradao u požaru, Ana Kolar (Anđelka Prpić) dobija informacije, koji dovode u pit</description>
+            <id>463</id>
+            <picturePath>assets\110974512.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>110</runTime>
+            <title>Jedini izlaz</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/25.1.2021_16_52_47_Breaking_news_yuba_HR_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;U ovoj crnoj komediji, Sue Buttons, nedovoljno cijenjena supruga iz predgrađa, stječe slavu nakon što njezin suprug misteriozno nes</description>
+            <id>464</id>
+            <picturePath>assets\532770588.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>96</runTime>
+            <title>Njezinih pet minuta</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/2.2.2021_14_35_37_Room_srb_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Kejt i Met su mladi njujorški par u svojim tridesetima. On je ilustrator i crtač stripova, a ona je zasićena poslom u velikoj advokatskoj kancela</description>
+            <id>465</id>
+            <picturePath>assets\1623185364.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>100</runTime>
+            <title>Soba želja</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/22.1.2021_13_28_32_Dreambuilders_hr_zadnji.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Minnin se život preokrenuo naglavačke kada joj se u dom doselile tatina zaručnica Helena i njezina kći Jenny. Njezina je nova polusest</description>
+            <id>466</id>
+            <picturePath>assets\354592930.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>81</runTime>
+            <title>Tvornica snova - sink</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/4.1.2021_13_29_28_fatale_hr_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Napet i provokativan psihološki triler opisuje urušavanje savršenog života sportskog agenta Darrena, nakon što mu zgodna policajka s kojom je pr</description>
+            <id>467</id>
+            <picturePath>assets\1651090965.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>102</runTime>
+            <title>Fatalna</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/21.12.2020_15_40_59_songbird_srb.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Radnja filma smeštena je u blisku budućnost, u 2024. godinu, kada je svet već nekoliko godina u pandemiji. Novi i brutalni zakoni deo su svakodn</description>
+            <id>468</id>
+            <picturePath>assets\619616410.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>85</runTime>
+            <title>Iza zatvorenih vrata</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/22.1.2021_13_35_09_I_care_a_lot_hr_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Marla Grayson vrlo je uspješna skrbnica koja vrlo vješto zakonom manipulira u svoju korist i na štetu svojih klijenata, živeći luksuzni ž</description>
+            <id>469</id>
+            <picturePath>assets\817242931.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>118</runTime>
+            <title>Jako mi je stalo</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/18.1.2021_14_01_48_Tom_i_Jerry_srb.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Jedno od najomiljenijih rivalstava u istoriji ponovo oživljava kad se Džeri useli u najlepši hotel U NjuJorku uoči "venčanja veka", prisiljava</description>
+            <id>470</id>
+            <picturePath>assets\1269012420.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>101</runTime>
+            <title>Tom i Džeri - sinh</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/18.1.2021_14_01_48_Tom_i_Jerry_srb.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Jedno od najomiljenijih rivalstava u istoriji ponovo oživljava kad se Džeri useli u najlepši hotel U NjuJorku uoči "venčanja veka", prisiljava</description>
+            <id>471</id>
+            <picturePath>assets\1975529371.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>101</runTime>
+            <title>Tom i Džeri 4DX - sinh</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/15.10.2020_13_50_09_soul_rs_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Da li ste se ikada zapitali gde nastaju vaše emocije, snovi, vaša interesovanja? Šta je to što vas čini onim što jeste? U 2020. godini Pixar Ani</description>
+            <id>472</id>
+            <picturePath>assets\791523656.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>107</runTime>
+            <title>Duša - sinh</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/15.10.2020_13_50_16_soul_rs_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Da li ste se ikada zapitali gde nastaju vaše emocije, snovi, vaša interesovanja? Šta je to što vas čini onim što jeste? U 2020. godini Pixar Ani</description>
+            <id>473</id>
+            <picturePath>assets\1753316584.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>107</runTime>
+            <title>Duša 3D - sinh</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/19.1.2021_10_49_03_Monster_hunter_teaser.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Pored našeg sveta, postoji drugi - svet opasnih i moćnih čudovišta koja smrtonosnom žestinom vladaju univerzumom. Tokom neočekivane pešč</description>
+            <id>474</id>
+            <picturePath>assets\1758312820.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>99</runTime>
+            <title>Lovac na čudovišta</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/19.1.2021_10_49_03_Monster_hunter_teaser.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Pored našeg sveta, postoji drugi - svet opasnih i moćnih čudovišta koja smrtonosnom žestinom vladaju univerzumom. Tokom neočekivane pešč</description>
+            <id>475</id>
+            <picturePath>assets\1992183133.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>99</runTime>
+            <title>Lovac na čudovišta 4DX</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/28.1.2021_11_46_41_Monster_hunter_hr_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Osim našeg svijeta, postoji i drugi, svijet opasnih i moćnih čudovišta koja smrtonosnom žestinom vladaju svojim teritorijem. Kad neoček</description>
+            <id>476</id>
+            <picturePath>assets\14548551.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>99</runTime>
+            <title>Monster Hunter</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/28.1.2021_11_46_51_Monster_hunter_hr_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Osim našeg svijeta, postoji i drugi, svijet opasnih i moćnih čudovišta koja smrtonosnom žestinom vladaju svojim teritorijem. Kad neoček</description>
+            <id>477</id>
+            <picturePath>assets\1968389235.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>99</runTime>
+            <title>Monster Hunter 4DX</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/28.1.2021_11_46_51_Monster_hunter_hr_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Osim našeg svijeta, postoji i drugi, svijet opasnih i moćnih čudovišta koja smrtonosnom žestinom vladaju svojim teritorijem. Kad neoček</description>
+            <id>478</id>
+            <picturePath>assets\1794710.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>99</runTime>
+            <title>Monster Hunter IMAX</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/27.1.2021_12_40_03_Shadow_srb.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;U jeku Drugog svetskog rata, kapetan Maude Geret pridružuje se muškoj posadi bombardera B-17 sa tajnim paketom. Zatečena prisutnošću žene na vojnom</description>
+            <id>479</id>
+            <picturePath>assets\775300758.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>83</runTime>
+            <title>Senka straha</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/13.1.2021_14_56_02_tom_jerry_hr.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Jedno od najomiljenijih rivalstava u povijesti ponovno oživljava kad se Jerry useli u najljepši hotel New Yorka uoči "vjenčanja stoljeća", prisil</description>
+            <id>480</id>
+            <picturePath>assets\876600591.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>101</runTime>
+            <title>Tom i Jerry - sink</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/13.1.2021_14_56_02_tom_jerry_hr.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Jedno od najomiljenijih rivalstava u povijesti ponovno oživljava kad se Jerry useli u najljepši hotel New Yorka uoči "vjenčanja stoljeća", prisil</description>
+            <id>481</id>
+            <picturePath>assets\1573608424.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>101</runTime>
+            <title>Tom i Jerry - titl</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/13.1.2021_14_56_02_tom_jerry_hr.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Jedno od najomiljenijih rivalstava u povijesti ponovno oživljava kad se Jerry useli u najljepši hotel New Yorka uoči "vjenčanja stoljeća", prisil</description>
+            <id>482</id>
+            <picturePath>assets\1460375039.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>101</runTime>
+            <title>Tom i Jerry 4DX - sink</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/13.1.2021_14_56_02_tom_jerry_hr.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Jedno od najomiljenijih rivalstava u povijesti ponovno oživljava kad se Jerry useli u najljepši hotel New Yorka uoči "vjenčanja stoljeća", prisil</description>
+            <id>483</id>
+            <picturePath>assets\753326811.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>101</runTime>
+            <title>Tom i Jerry 4DX - titl</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/22.1.2021_11_48_43_Promising_Young_Woman__HR.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Redateljica Emerald Fennel (Killing Eve) na velika platna donosi novi, zanimljivi pogleda na osvetu. Za Cassie (Carey Mulligan) svi </description>
+            <id>484</id>
+            <picturePath>assets\2018892530.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>113</runTime>
+            <title>Djevojka koja obećava</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/22.1.2021_13_29_03_Mauritanian_hr_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Dvostruka oskarovka Jodie Foster nalazi se u ulozi Nancy Hollander, braniteljice koja preuzima slučaj Mohamedoua Oulda Slahija (Tahar Rahi</description>
+            <id>485</id>
+            <picturePath>assets\1186030038.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>129</runTime>
+            <title>Mauritanac: Dnevnik iz Guantanama</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/2.2.2021_15_07_11_Chaos_walking_hr.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;U ne tako dalekoj budućnosti, Todd Hewitt (Tom Holland) otkriva Violu (Daisy Ridley), tajanstvenu djevojku koja se srušila na njegov planet, n</description>
+            <id>486</id>
+            <picturePath>assets\16838755.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Hodajući kaos</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/2.2.2021_15_07_11_Chaos_walking_hr.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;U ne tako dalekoj budućnosti, Todd Hewitt (Tom Holland) otkriva Violu (Daisy Ridley), tajanstvenu djevojku koja se srušila na njegov planet, n</description>
+            <id>487</id>
+            <picturePath>assets\1972906815.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Hodajući kaos 4DX</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/27.1.2021_14_42_09_Raya_HR.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Davno, u čarobnom gradu Kumandra, ljudi i zmajevi živjeli su zajedno u slozi. Ali kada su zle sile poznate kao Druuni postale prijetnja za sve, zmajev</description>
+            <id>488</id>
+            <picturePath>assets\235142831.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Raya i posljednji zmaj - sink</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/27.1.2021_14_42_09_Raya_HR.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Davno, u čarobnom gradu Kumandra, ljudi i zmajevi živjeli su zajedno u slozi. Ali kada su zle sile poznate kao Druuni postale prijetnja za sve, zmajev</description>
+            <id>489</id>
+            <picturePath>assets\1638627748.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Raya i posljednji zmaj 3D - sink</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/2.2.2021_15_04_16_boss_level_teaser.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Umirovljeni vojni specijalac Roy Pulver (F. Grillo) iznova proživljava jedan te isti dan koji uvijek završava njegovom brutalnom smrću od str</description>
+            <id>490</id>
+            <picturePath>assets\1994574591.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Boss Level</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/2.2.2021_15_14_26_Wrong_turn_teaser.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Radnja ovog napetog horora prati dvadesetogodišnju Jen i pet njenih bliskih prijatelja koji planinare u Apalačko gorje u Zapadnoj Virginiji. </description>
+            <id>491</id>
+            <picturePath>assets\1032156383.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>109</runTime>
+            <title>Pogrešno skretanje</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/11.11.2020_9_56_52_croods_2_novi_hr.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Nakon sedam godina omiljena prahistorijska obitelj, Croods, se vraća na velika platna. Do sad su se susreli s mnogobrojnim nedaćama i opasnos</description>
+            <id>492</id>
+            <picturePath>assets\229186387.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>95</runTime>
+            <title>Croods: Novo doba - sink</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/28.1.2021_15_06_01_Godzilla_vs_Kong_SRB.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Sukob najvećih filmskih čudovišta, nezaustavljive Godzile i  gigantskog King Konga, čeka se još od 1962. kad su se prvi  put sreli na fil</description>
+            <id>493</id>
+            <picturePath>assets\1811087744.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Godzila protiv Konga</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/28.1.2021_15_06_08_Godzilla_vs_Kong_SRB.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Sukob najvećih filmskih čudovišta, nezaustavljive Godzile i  gigantskog King Konga, čeka se još od 1962. kad su se prvi  put sreli na fil</description>
+            <id>494</id>
+            <picturePath>assets\56935385.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Godzila protiv Konga 3D</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/28.1.2021_15_06_15_Godzilla_vs_Kong_SRB.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Sukob najvećih filmskih čudovišta, nezaustavljive Godzile i  gigantskog King Konga, čeka se još od 1962. kad su se prvi  put sreli na fil</description>
+            <id>495</id>
+            <picturePath>assets\2081470005.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Godzila protiv Konga 3D 4DX</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/25.1.2021_10_57_42_Godzilla_vs_Kong_hr_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Legende se sudaraju u četvrtom filmu MonsterVerse Legendary serijala. Dok se ovi mitski protivnici susreću u spektakularnoj bitci koj</description>
+            <id>496</id>
+            <picturePath>assets\1017187473.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Godzilla vs. Kong</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/25.1.2021_10_58_12_Godzilla_vs_Kong_hr_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Legende se sudaraju u četvrtom filmu MonsterVerse Legendary serijala. Dok se ovi mitski protivnici susreću u spektakularnoj bitci koj</description>
+            <id>497</id>
+            <picturePath>assets\1447028771.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Godzilla vs. Kong 3D IMAX</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/25.1.2021_10_58_01_Godzilla_vs_Kong_hr_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Legende se sudaraju u četvrtom filmu MonsterVerse Legendary serijala. Dok se ovi mitski protivnici susreću u spektakularnoj bitci koj</description>
+            <id>498</id>
+            <picturePath>assets\1607077110.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Godzilla vs. Kong 4DX</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/1.2.2021_9_23_16_Croods_2_SRB.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Svetu je 2013. godine predstavljena prva porodica praistorije, Krudsi. Ova komedija, nominovana za Oskara, je priča o suočavanju jednog klana sa sv</description>
+            <id>499</id>
+            <picturePath>assets\1258152020.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>95</runTime>
+            <title>Kruds: Novo doba - sinh</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/1.2.2021_9_23_16_Croods_2_SRB.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Svetu je 2013. godine predstavljena prva porodica praistorije, Krudsi. Ova komedija, nominovana za Oskara, je priča o suočavanju jednog klana sa sv</description>
+            <id>500</id>
+            <picturePath>assets\1181977169.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>95</runTime>
+            <title>Kruds: Novo doba 3D - sinh</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/5.2.2021_15_32_58_raya_srb_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Davno, u čarobnom gradu Kumandra, ljudi i zmajevi živeli su zajedno u slozi. Ali kada su zlokobna čudovišta poznata kao Drun postala pretnja za p</description>
+            <id>501</id>
+            <picturePath>assets\440498011.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Raja i poslednji zmaj - sinh</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/5.2.2021_15_32_50_raya_srb_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Davno, u čarobnom gradu Kumandra, ljudi i zmajevi živeli su zajedno u slozi. Ali kada su zlokobna čudovišta poznata kao Drun postala pretnja za p</description>
+            <id>502</id>
+            <picturePath>assets\1001010493.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Raja i poslednji zmaj 3D - sinh</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/19.3.2020_17_22_16_black_widow_bd.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Priča je svojevrsni prequel koji nam razotkriva misteriozni lik Natashe Romanoff, kao i njezinu prošlost i obuku u elitnim KGBovom programu. Na</description>
+            <id>503</id>
+            <picturePath>assets\2066105271.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Black Widow</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/13.3.2020_14_19_09_black_widow.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;U akcijskom filmu "Black Widow", Marvel Studio predstavlja Natashu Romanoff kao Black Widow koja se suočava s mračnim dijelovima svoje smrtnosti k</description>
+            <id>504</id>
+            <picturePath>assets\1439198647.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Black Widow 3D</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/19.3.2020_17_22_51_black_widow_bd.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;U akcijskom filmu "Black Widow", Marvel Studio predstavlja Natashu Romanoff kao Black Widow koja se suočava s mračnim dijelovima svoje smrtnost</description>
+            <id>505</id>
+            <picturePath>assets\820726359.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Black Widow 3D 4DX</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/13.3.2020_14_19_09_black_widow.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;U akcijskom filmu "Black Widow", Marvel Studio predstavlja Natashu Romanoff kao Black Widow koja se suočava s mračnim dijelovima svoje smrtnosti k</description>
+            <id>506</id>
+            <picturePath>assets\808573083.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Black Widow 3D IMAX</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/10.9.2020_10_06_37_black_widow_srb_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Skarlet Džohanson reprizira ulogu Nataše / Crne udovice u Marvelovom akcionom spektaklu, špijunskom trileru “CRNA UDOVICA” - prvom flmu č</description>
+            <id>507</id>
+            <picturePath>assets\2081644246.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Crna udovica</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/10.9.2020_10_06_53_black_widow_srb_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Skarlet Džohanson reprizira ulogu Nataše / Crne udovice u Marvelovom akcionom spektaklu, špijunskom trileru “CRNA UDOVICA” - prvom flmu č</description>
+            <id>508</id>
+            <picturePath>assets\2100859694.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Crna udovica 3D</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/10.9.2020_10_07_00_black_widow_srb_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Skarlet Džohanson reprizira ulogu Nataše / Crne udovice u Marvelovom akcionom spektaklu, špijunskom trileru “CRNA UDOVICA” - prvom flmu č</description>
+            <id>509</id>
+            <picturePath>assets\1573495973.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Crna udovica 3D 4DX</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/20.3.2020_13_22_40_free_guy_hr.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Guy je usamljeni bankar koji otkrije da je zapravo pozadinski lik (NPC – non playable character) u svjetskoj video igri Free City. Taoci, pljačke,</description>
+            <id>510</id>
+            <picturePath>assets\327339705.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Free Guy</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/20.3.2020_13_22_40_free_guy_hr.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Guy je usamljeni bankar koji otkrije da je zapravo pozadinski lik (NPC – non playable character) u svjetskoj video igri Free City. Taoci, pljačke,</description>
+            <id>511</id>
+            <picturePath>assets\135941631.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Free Guy 4DX</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/20.3.2020_13_22_40_free_guy_hr.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Guy je usamljeni bankar koji otkrije da je zapravo pozadinski lik (NPC – non playable character) u svjetskoj video igri Free City. Taoci, pljačke,</description>
+            <id>512</id>
+            <picturePath>assets\777072428.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Free Guy IMAX</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/2.11.2020_11_11_51_free_guy_rs.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Glavni heroj je priča o usamljenom bankaru koji otkriva da je on u stvari sporedni igrač u video igrici Free City.&lt;br /&gt;Početak prikazivanja: 20.5</description>
+            <id>513</id>
+            <picturePath>assets\138093824.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Glavni heroj</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/2.11.2020_11_11_51_free_guy_rs.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Glavni heroj je priča o usamljenom bankaru koji otkriva da je on u stvari sporedni igrač u video igrici Free City.&lt;br /&gt;Početak prikazivanja: 20.5</description>
+            <id>514</id>
+            <picturePath>assets\1120252247.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Glavni heroj 4DX</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/25.5.2020_13_22_20_conjuring_rs_smanjeno.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Prizivanje Zla: Đavo me je naterao je sedmi film iz sveta Prizivanja, najduže i  najpoznatije horor franšize u svetu.
+
+Prizivanje Zla ot</description>
+            <id>515</id>
+            <picturePath>assets\1016746682.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Prizivanja zla: Đavo me je naterao</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/20.3.2020_18_21_21_top_gun_smanjeno.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Nakon više of 30 godina služenja u mornarici, kao jedan od najboljih pilota, Pit “Maverik” Mičel je tamo gde i treba da bude. Ne preza da pro</description>
+            <id>516</id>
+            <picturePath>assets\113548820.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Top Gan: Maverik</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/26.5.2020_10_31_55_top_gun_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Nakon više od trideset godina služenja kao jedan od najboljih pilota mornarice, Pete "Maverick" Mitchell (Tom Cruise) je tamo gdje pripada, izbje</description>
+            <id>517</id>
+            <picturePath>assets\1061961357.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Top Gun: Maverick</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/26.5.2020_10_32_02_top_gun_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Nakon više od trideset godina služenja kao jedan od najboljih pilota mornarice, Pete "Maverick" Mitchell (Tom Cruise) je tamo gdje pripada, izbje</description>
+            <id>518</id>
+            <picturePath>assets\1768200306.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Top Gun: Maverick 4DX</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/26.5.2020_10_32_09_top_gun_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Nakon više od trideset godina služenja kao jedan od najboljih pilota mornarice, Pete "Maverick" Mitchell (Tom Cruise) je tamo gdje pripada, izbje</description>
+            <id>519</id>
+            <picturePath>assets\944408636.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Top Gun: Maverick IMAX</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/19.3.2020_18_20_22_jungle_cruise.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Lily putuje iz Londona u džunglu Amazone gdje angažira Franka da je vozi u svom brodiću niz rijeku. Lily je odlučna otkriti drevno stablo s nevj</description>
+            <id>520</id>
+            <picturePath>assets\87447053.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Krstarenje džunglom</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/19.3.2020_18_20_22_jungle_cruise.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Lily putuje iz Londona u džunglu Amazone gdje angažira Franka da je vozi u svom brodiću niz rijeku. Lily je odlučna otkriti drevno stablo s nevj</description>
+            <id>521</id>
+            <picturePath>assets\1390256497.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Krstarenje džunglom 3D</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/19.3.2020_18_20_22_jungle_cruise.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Lily putuje iz Londona u džunglu Amazone gdje angažira Franka da je vozi u svom brodiću niz rijeku. Lily je odlučna otkriti drevno stablo s nevj</description>
+            <id>522</id>
+            <picturePath>assets\2097364007.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Krstarenje džunglom 3D 4DX</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/19.3.2020_18_20_22_jungle_cruise.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Lily putuje iz Londona u džunglu Amazone gdje angažira Franka da je vozi u svom brodiću niz rijeku. Lily je odlučna otkriti drevno stablo s nevj</description>
+            <id>523</id>
+            <picturePath>assets\1540687360.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Krstarenje džunglom 3D IMAX</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/12.8.2020_11_15_24_kingsman_najnoviji_hr.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Temeljen na stripu „The Secret Service” Marka Millara i Davea Gibbonsa, novi nastavak u franšizi KINGSMAN vodi nas na početak priče, pri</description>
+            <id>524</id>
+            <picturePath>assets\685714666.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>131</runTime>
+            <title>King’s Man: Početak</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/12.8.2020_11_15_58_kingsman_najnoviji_hr.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Temeljen na stripu „The Secret Service” Marka Millara i Davea Gibbonsa, novi nastavak u franšizi KINGSMAN vodi nas na početak priče, pri</description>
+            <id>525</id>
+            <picturePath>assets\1809362028.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>131</runTime>
+            <title>King’s Man: Početak 4DX</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/12.8.2020_11_16_25_kingsman_najnoviji_hr.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Temeljen na stripu „The Secret Service” Marka Millara i Davea Gibbonsa, novi nastavak u franšizi KINGSMAN vodi nas na početak priče, pri</description>
+            <id>526</id>
+            <picturePath>assets\651916157.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>131</runTime>
+            <title>King’s Man: Početak IMAX</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/23.6.2020_9_02_47_Kingsman_srb_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Grupa najvećih kriminalaca i tirana okuplja se kako bi isplanirala rat u cilju uništenja miliona ljudi. Jedan čovek moraće da se utrkuje s vr</description>
+            <id>527</id>
+            <picturePath>assets\1679367540.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>131</runTime>
+            <title>The King`s Man: Početak</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/23.6.2020_9_02_47_Kingsman_srb_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Grupa najvećih kriminalaca i tirana okuplja se kako bi isplanirala rat u cilju uništenja miliona ljudi. Jedan čovek moraće da se utrkuje s vr</description>
+            <id>528</id>
+            <picturePath>assets\1686252361.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>131</runTime>
+            <title>The King`s Man: Početak 4DX</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/20.8.2020_14_09_06_death_on_nile_teaser.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Mlada, bogata i lijepa Linnet Ridgeway ima gotovo sve. Ono što nema, uzme. Na primjer, zaručnika svoje najbolje prijateljice Jackie. Kad </description>
+            <id>529</id>
+            <picturePath>assets\1362956642.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Smrt na Nilu</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/21.8.2020_16_45_06_Death_nile_srb.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Putovanje po Egiptu na glamuroznom parobrodu za belgijskog detektiva Herkula Poaroa pretvara se u zastrašujuću potragu za ubicom, u trenucima k</description>
+            <id>530</id>
+            <picturePath>assets\1382588292.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Smrt na Nilu</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/20.8.2020_14_09_06_death_on_nile_teaser.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Mlada, bogata i lijepa Linnet Ridgeway ima gotovo sve. Ono što nema, uzme. Na primjer, zaručnika svoje najbolje prijateljice Jackie. Kad </description>
+            <id>531</id>
+            <picturePath>assets\746384158.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Smrt na Nilu 4DX</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/21.8.2020_16_45_06_Death_nile_srb.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Putovanje po Egiptu na glamuroznom parobrodu za belgijskog detektiva Herkula Poaroa pretvara se u zastrašujuću potragu za ubicom, u trenucima k</description>
+            <id>532</id>
+            <picturePath>assets\258188384.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Smrt na Nilu 4DX</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/20.8.2020_14_09_06_death_on_nile_teaser.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Mlada, bogata i lijepa Linnet Ridgeway ima gotovo sve. Ono što nema, uzme. Na primjer, zaručnika svoje najbolje prijateljice Jackie. Kad </description>
+            <id>533</id>
+            <picturePath>assets\60331104.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Smrt na Nilu IMAX</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/11.3.2020_15_06_47_Quiet_place_zadnji_rs.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Nakon smrtonosnih događaja koji su se odigrali, porodica Abot prinuđena je da se suoči sa strahotama spoljašnjeg sveta, dok njeni članov</description>
+            <id>534</id>
+            <picturePath>assets\1951647765.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>98</runTime>
+            <title>Tiho mesto 2</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/11.3.2020_15_06_54_Quiet_place_zadnji_rs.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Nakon smrtonosnih događaja koji su se odigrali, porodica Abot prinuđena je da se suoči sa strahotama spoljašnjeg sveta, dok njeni članov</description>
+            <id>535</id>
+            <picturePath>assets\2024229755.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>98</runTime>
+            <title>Tiho mesto 2 4DX</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/18.6.2020_9_02_20_Dune_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Adaptacija naučno-fantastičnog klasika Franka Herberta.
+
+Priča prati Pola Atreidesa iz kuće Atreides, sjajnog i nadarenog mladića  rođenog za velike </description>
+            <id>536</id>
+            <picturePath>assets\1680189151.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Dina</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/18.6.2020_9_02_20_Dune_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Adaptacija naučno-fantastičnog klasika Franka Herberta.
+
+Priča prati Pola Atreidesa iz kuće Atreides, sjajnog i nadarenog mladića  rođenog za velike </description>
+            <id>537</id>
+            <picturePath>assets\818398907.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>0</runTime>
+            <title>Dina 4DX</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/8.1.2021_14_17_39_No_time_to_die_srb.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;U flmu “NIJE VREME ZA UMIRANJE” Bond je napusto službu i uživa u mirnom životu na Jamajci.
+Njegov mir neće trajat dugo, kada se pojavi njego</description>
+            <id>538</id>
+            <picturePath>assets\1041006037.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>164</runTime>
+            <title>Nije vreme za umiranje</title>
+            <year>0</year>
+        </film>
+        <film>
+            <description>&lt;img src="https://www.blitz-cinestar.hr/resize.aspx?filename=Plakats/8.1.2021_14_18_00_No_time_to_die_srb.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;U flmu “NIJE VREME ZA UMIRANJE” Bond je napusto službu i uživa u mirnom životu na Jamajci.
+Njegov mir neće trajat dugo, kada se pojavi njego</description>
+            <id>539</id>
+            <picturePath>assets\131626538.jpg</picturePath>
+            <ratings>0</ratings>
+            <runTime>164</runTime>
+            <title>Nije vreme za umiranje 4DX</title>
+            <year>0</year>
+        </film>
+    </films>
+</filmarchive>
